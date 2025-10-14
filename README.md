@@ -28,6 +28,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | TPLINK UB400 v1.1 | 4  | ✓  | ✓  | Not tested  | Not tested  | Not Tested  |   | Empty  | Realtek Chip  |
 | TPLINK UB500  | 5  | ✓  | ✓  | ✓  | ✓ | Fine with four DS  | ✓ | VID_2357 PID_0604| Realtek Chip  |
 | TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | Fine with four DS  | ✓  | | Realtek Chip  |
+| TPLINK Archer TX10UB Nano | 5.3  | ✓  | ✓   | Not Tested  | Not tested  | Not Tested  | x  | VID_3625 PID_010B  | Realtek Chip  |
 
 
 IMPORTANT: A major release was made by intel (feb 2024) that improves connection when using more than one controller. Please install INTEL BT driver 23.30.0 or newer.
